@@ -1,0 +1,5 @@
+---
+# defaults file for aws_instance_management
+tags: False
+nightly_shutdown: False
+shutdown_over_30: False
